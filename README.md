@@ -3,7 +3,7 @@
 > *"Code. Create. Inspire."*
 
 Welcome to my GitHub profile!  
-I'm a **Data Science** student at **Punjab University College of Information Technology (PUCIT)**, passionate about building AI-powered tools, analyzing data, and creating digital experiences through **motion graphics**, **VFX**, and **3D animation**.
+I'm a **Data Science** student at **Punjab University College of Information Technology (PUCIT)**, passionate about building AI-powered tools and analyzing data.
 
 ---
 
@@ -12,7 +12,7 @@ I'm a **Data Science** student at **Punjab University College of Information Tec
 - 🎓 **University:** Punjab University College of Information Technology (PUCIT)
 - 📊 **Department:** Data Science
 - 🤖 **Currently building:** AI/ML projects and data-driven web apps
-- 🎯 **Goals:** Become a professional data scientist and creative 3D artist
+- 🎯 **Goals:** Become a professional data scientist
 
 ---
 
@@ -22,7 +22,6 @@ I'm a **Data Science** student at **Punjab University College of Information Tec
 - Python · C++ · HTML & CSS
 - Pandas · Scikit-learn · Matplotlib
 - Streamlit · Gradio
-- Blender · DaVinci Resolve
 
 ---
 
@@ -51,7 +50,6 @@ I'm a **Data Science** student at **Punjab University College of Information Tec
 - [x] Build an ML web app (Titanic Predictor)
 - [ ] Contribute to open-source projects
 - [ ] Master advanced Machine Learning
-- [ ] Master Blender for 3D art
 
 ---
 
@@ -62,4 +60,4 @@ I'm a **Data Science** student at **Punjab University College of Information Tec
 
 ---
 
-> *"Turning ideas into reality — one line of code and one frame at a time."*
+> *"Turning ideas into reality — one line of code at a time."*
