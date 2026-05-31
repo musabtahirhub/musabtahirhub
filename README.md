@@ -3,25 +3,36 @@
 > *"Code. Create. Inspire."*
 
 Welcome to my GitHub profile!  
-I'm a **Data Science** student at **Punjab University College of Information Technology (PUCIT)**, passionate about building AI-powered tools and analyzing data.
+I'm passionate about building AI-powered tools, full-stack web applications, and data-driven solutions.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 **University:** Punjab University College of Information Technology (PUCIT)
-- 📊 **Department:** Data Science
 - 🤖 **Currently building:** AI/ML projects and data-driven web apps
-- 🎯 **Goals:** Become a professional data scientist
+- 🎯 **Focus:** Data Science · Full-Stack Development · Machine Learning
 
 ---
 
 ## 🛠️ Skills
 
-**Languages & Tools:**
-- Python · C++ · HTML & CSS
-- Pandas · Scikit-learn · Matplotlib
-- Streamlit · Gradio
+**Programming Languages:**  
+Python (Advanced) · SQL · JavaScript (ES6+) · C++ (Advanced) · C · C# · Java · HTML5 · CSS3
+
+**Backend & Systems:**  
+Node.js · Express.js · REST APIs · JWT Authentication
+
+**Databases:**  
+PostgreSQL · MSSQL · Query Optimization · Indexing
+
+**Data Science & ML:**  
+pandas · NumPy · scikit-learn · TensorFlow · Feature Engineering · EDA · Supervised & Unsupervised Learning · Hyperparameter Tuning · Model Deployment · RAG
+
+**Deployment & Tooling:**  
+Streamlit · Model Serving · REST Integration · API Documentation · Git · GitHub · Power BI
+
+**Frontend:**  
+React · Vite · Tailwind CSS · TanStack Query
 
 ---
 
@@ -29,27 +40,10 @@ I'm a **Data Science** student at **Punjab University College of Information Tec
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| [**CodeMentor Chatbot**](https://github.com/musabtahirhub/codementor-chatbot) | An AI-powered coding mentor chatbot to help developers learn and debug | Python, RAG |
+| [**LIVEBID.PRO**](https://github.com/musabtahirhub/LIVEBID.PRO) | A real-time live bidding platform with secure authentication | Node.js, Express.js, PostgreSQL, JWT |
 | [**Career Guide AI**](https://github.com/musabtahirhub/career-ai-chatbot) | An intelligent career guidance chatbot deployed on HuggingFace Spaces | Python, Gradio |
-| [**Titanic Predictor**](https://github.com/musabtahirhub/titanic_predictor) | ML model to predict Titanic survival, with a Streamlit web app | Python, Scikit-learn, Streamlit |
-| [**AICT Website**](https://github.com/musabtahirhub/AICT-WEBSITE) | A fully designed website built from scratch | HTML, CSS |
-| [**Snake Game**](https://github.com/musabtahirhub/snake-game) | Classic snake game built using C++ | C++ |
-
----
-
-## 📈 GitHub Stats
-
-[![Musab's GitHub stats](https://github-readme-stats.vercel.app/api?username=musabtahirhub&show_icons=true&theme=radical)](https://github.com/musabtahirhub)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musabtahirhub&layout=compact&theme=radical)](https://github.com/musabtahirhub)
-
----
-
-## ✅ Goals Checklist
-
-- [x] Build a GitHub portfolio
-- [x] Deploy an AI chatbot (Career Guide AI)
-- [x] Build an ML web app (Titanic Predictor)
-- [ ] Contribute to open-source projects
-- [ ] Master advanced Machine Learning
+| [**Parkinson's Diagnosis**](https://github.com/musabtahirhub/Parkinsons-Diagnosis-at-Initial-Stages-using-Vocal-Data) | Early-stage Parkinson's detection using vocal biomarker data and ML | Python, scikit-learn, EDA |
 
 ---
 
