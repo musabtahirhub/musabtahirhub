@@ -1,81 +1,65 @@
-#  Hi, I'm **Musab Tahir**
+# Hi, I'm **Musab Tahir** 👋
 
-> *“Code. Create. Inspire.”*  
+> *"Code. Create. Inspire."*
 
 Welcome to my GitHub profile!  
-I'm currently studying **Data Science** at **Punjab University College of Information Technology (PUCIT)**.  
-I’m passionate about coding, 3D art, and creating digital experiences through **motion graphics**, **VFX**, and **animation**.  
+I'm a **Data Science** student at **Punjab University College of Information Technology (PUCIT)**, passionate about building AI-powered tools, analyzing data, and creating digital experiences through **motion graphics**, **VFX**, and **3D animation**.
 
 ---
 
-##  About Me
+## 🧑‍💻 About Me
 
--  **University:** Punjab University College of Information Technology (PUCIT)  
--  **Department:** Data Science  
--  **About:** A data science student with a creative side — blending analytical logic with visual storytelling.  
--  **Goals:** To become a professional data scientist and a creative 3D artist.  
-
----
-
-##  Skills
-
-Here are a few of my core technical and creative skills:
-
--  C++  
--  Python  
--  HTML & CSS  
--  Blender  
--  DaVinci Resolve (Editing, VFX, Motion Graphics)
+- 🎓 **University:** Punjab University College of Information Technology (PUCIT)
+- 📊 **Department:** Data Science
+- 🤖 **Currently building:** AI/ML projects and data-driven web apps
+- 🎯 **Goals:** Become a professional data scientist and creative 3D artist
 
 ---
 
-##  My GitHub Repositories
+## 🛠️ Skills
 
-> Some of my recent and favorite projects  
-
-1. [**HTML-CSS Projects**](https://github.com/musabtahirhub/AICT-WEBSITE)  
-   > Created a website using HTML and CSS.
-
-2. [**Snake Game**](https://github.com/musabtahirhub/snake-game)  
-   > Made a snake game using C++ concepts.
-
-3. [**First Repo**](https://github.com/musabtahirhub/my-first-repo)  
-   > As I started my journey on github, this was my first repo.
+**Languages & Tools:**
+- Python · C++ · HTML & CSS
+- Pandas · Scikit-learn · Matplotlib
+- Streamlit · Gradio
+- Blender · DaVinci Resolve
 
 ---
 
-##  Stats & GitHub Activity
+## 🚀 Projects
 
-![Musab's GitHub stats](https://github-readme-stats.vercel.app/api?username=musabtahirhub&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musabtahirhub&layout=compact&theme=radical)
-
----
-
-##  Projects & Experience
-
-| Project | Description | Tools Used |
-|----------|--------------|-------------|
-| **Data Analysis Project** | Analyzed trends using Python and Pandas | Python, Pandas, Matplotlib |
-| **3D Animation Reel** | Created animation shots in Blender | Blender, After Effects |
-| **Portfolio Website** | Designed a personal website | HTML, CSS, JS |
+| Project | Description | Tech Stack |
+|---|---|---|
+| [**Career Guide AI**](https://github.com/musabtahirhub/career-ai-chatbot) | An intelligent career guidance chatbot deployed on HuggingFace Spaces | Python, Gradio |
+| [**Titanic Predictor**](https://github.com/musabtahirhub/titanic_predictor) | ML model to predict Titanic survival, with a Streamlit web app | Python, Scikit-learn, Streamlit |
+| [**AICT Website**](https://github.com/musabtahirhub/AICT-WEBSITE) | A fully designed website built from scratch | HTML, CSS |
+| [**Snake Game**](https://github.com/musabtahirhub/snake-game) | Classic snake game built using C++ | C++ |
 
 ---
 
-##  My Goals Checklist
+## 📈 GitHub Stats
 
--  Learn Python for data analysis  
--  Build a GitHub portfolio  
--  Master Blender for 3D art  
--  Contribute to open-source projects  
--  Learn advanced Machine Learning  
+[![Musab's GitHub stats](https://github-readme-stats.vercel.app/api?username=musabtahirhub&show_icons=true&theme=radical)](https://github.com/musabtahirhub)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musabtahirhub&layout=compact&theme=radical)](https://github.com/musabtahirhub)
 
 ---
 
-##  Contact Me
+## ✅ Goals Checklist
 
--  **Email:** [musabtahir2@gmail.com](mailto:musabtahir2@gmail.com)  
--  **LinkedIn:** [linkedin.com/in/musabtahir](www.linkedin.com/in/musabtahir)   
+- [x] Build a GitHub portfolio
+- [x] Deploy an AI chatbot (Career Guide AI)
+- [x] Build an ML web app (Titanic Predictor)
+- [ ] Contribute to open-source projects
+- [ ] Master advanced Machine Learning
+- [ ] Master Blender for 3D art
 
 ---
 
-> _“Turning ideas into reality — one line of code and one frame at a time.”_
+## 📬 Contact Me
+
+- **Email:** musabtahir2@gmail.com
+- **LinkedIn:** [linkedin.com/in/musabtahir](https://www.linkedin.com/in/musabtahir)
+
+---
+
+> *"Turning ideas into reality — one line of code and one frame at a time."*
