@@ -3,12 +3,14 @@
 > *"Code. Create. Inspire."*
 
 Welcome to my GitHub profile!  
-I'm passionate about building AI-powered tools, full-stack web applications, and data-driven solutions.
+I'm a **Data Science** student at **Punjab University College of Information Technology (PUCIT)**, passionate about building AI-powered tools, full-stack web applications, and data-driven solutions.
 
 ---
 
 ## 🧑‍💻 About Me
 
+- 🎓 **University:** Punjab University College of Information Technology (PUCIT)
+- 📊 **Department:** Data Science
 - 🤖 **Currently building:** AI/ML projects and data-driven web apps
 - 🎯 **Focus:** Data Science · Full-Stack Development · Machine Learning
 
